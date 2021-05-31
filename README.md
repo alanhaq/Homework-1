@@ -1,28 +1,4 @@
-# Business Analytics 111a, Fall '20 – Homework 1
-## Due 9 AM, Sunday September 13, 2020
-
-In this assignment you will improve your R coding skills. You will be asked to
-write short code snippets or code-chunks in R. You will be graded both on your
-code, and the written answers you provide. When evaluating the code, the grader
-will take on the role of a co-worker.
-
-Code will evaluated both in terms of how
-correct and how clear it is.
-
-By correctness, I mean that the code fulfills the requirements of the question.  
-
-By clarity, I mean that the grader should be able to understand what your code
-does within 30 seconds of reading it.  
-
-As discussed in class, this is aided by clear comments, good variable names,
-proper indentation, and short lines.
-
-## Submission Directions
-You should submit an R file onto Latte by 9 AM EST on Friday, September 13th. The file should be named as `FirstnameLastname_Homework1.R`. So for instance, it would be named `MitchellDodell_Homework1.R` if the TA was submitting it.
-
-> **Extra Credit Opportunity (+5 points)**: Submit your homework in a **public** Github repository. You should submit your R file, but also a PDF which contains just a link to your repository.
-
-> In order to do this, you should click the 'Fork' button on the top right of this Github repository. This will create a copy of it onto your account. You should then clone the one on your account by clicking the 'Code' button after you are redirected.
+# Intro to R
 
 ### Coding in R
 1. Run the following command:
